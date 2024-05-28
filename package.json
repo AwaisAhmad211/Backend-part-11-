@@ -1,0 +1,15 @@
+{
+  "name": "backend(part-11)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Awais Ahmad",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.4.0"
+  }
+}
